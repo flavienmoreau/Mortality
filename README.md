@@ -3,9 +3,11 @@
 Last Updated: May 2023
 Replication Instructions for Lleras-Muney
 and Moreau (2022) Demography
+
 1-Data
 The data for this project comes from the Human Mortality Database and is publicly available but
 requires registration. The data can be downloaded from https://www.mortality.org/
+
 2-Codes
 There are several codes to produce the results of the paper.
 a. STATA codes
